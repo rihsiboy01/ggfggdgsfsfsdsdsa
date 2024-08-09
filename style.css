@@ -1,0 +1,23 @@
+header{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+.mol{
+    width: 500px;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
